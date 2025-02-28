@@ -21,7 +21,7 @@ function App() {
         </div>
         
         <footer className="contact-info">
-          Contact: <a href="mailto:liziemachine@gmail.com">liziemachine@gmail.com</a>
+          Contact: <a href="mailto:lizziemachine@gmail.com">lizziemachine@gmail.com</a>
         </footer>
       </main>
     </div>
