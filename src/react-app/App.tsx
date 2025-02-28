@@ -13,7 +13,7 @@ function App() {
         </div>
         
         <p className="site-description">
-          wind.cat is under construction! The purpose of the site is to provide updates on an in-progress AI system.
+          wind.cat is under construction! The purpose of the site is to provide updates and information about an in-progress AI system.
         </p>
         
         <div className="wow-animation-wrapper">
