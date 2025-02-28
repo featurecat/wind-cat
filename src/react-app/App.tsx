@@ -1,5 +1,5 @@
-import React from 'react';
 import './App.css';
+import Animation from './Animation';
 
 function App() {
   return (
@@ -15,6 +15,10 @@ function App() {
         <p className="site-description">
           wind.cat is under construction! The purpose of the site is to provide updates on an in-progress AI system.
         </p>
+        
+        <div className="wow-animation-wrapper">
+          <Animation />
+        </div>
         
         <footer className="contact-info">
           Contact: <a href="mailto:liziemachine@gmail.com">liziemachine@gmail.com</a>
